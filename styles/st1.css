@@ -1,0 +1,30 @@
+html{
+    background-color: #222222;
+}
+
+h3{
+    padding-left: 5cm;
+    color: whitesmoke;
+}
+
+.center{
+    display: block;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.center-searchbar{
+    display: block;
+    width: 30%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1b1b1b;
+    border-color: #1b1b1b;
+    box-shadow: 0 1px 3px rgba(0,0,0,0,5);
+    padding-right: 3.5em;
+}
